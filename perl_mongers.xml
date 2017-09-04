@@ -5133,7 +5133,7 @@
       <country>United States of America</country>
       <continent>North America</continent>
       <longitude>-93.012678</longitude>
-      <latitude>30.237224</latitude>
+      <latitude>30.237224</latitude>q
     </location>
     <email type="group"></email>
     <tsar>
@@ -5165,12 +5165,12 @@
     <tsar>
       <name>Marcus Ramberg</name>
       <email type="personal">
-        <user>marcus</user>
-        <domain>nordaaker.com</domain>
+        <user>marcus.ramberg</user>
+        <domain>gmail.com</domain>
       </email>
     </tsar>
-    <web>http://oslo.pm.org/</web>
-    <date type="inception">19991024</date>
+    <web>http://oslo.pm/</web>
+    <date type="inception">20021016</date>
   </group>
   <group id="234" status="active">
     <name>Madrid.pm</name>
